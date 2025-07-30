@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm an iOS Developer and a Computer Science graduate. 🎓<br><br>I love crafting clean, functional, and user-friendly apps using **Swift**, **UIKit**, and modern architecture patterns like **MVVM**.  <br>My CS degree gave me a strong foundation in algorithms, data structures, and software architecture. 🧠💻<br><br>🔧 <br>Tools & Concepts I use:  <br>- 🛠️ Swift, UIKit, SwiftUI<br>- 🧱 Clean Architecture, MVVM + MVC  <br>- 🧩 Git, Xcode, Firebase, UserDefaults, Core Data  <br><br>🚀 I'm passionate about learning, problem-solving, and turning ideas into smooth mobile experiences.  
+👋 Hi there! I'm an iOS Developer and a Computer Science graduate. 🎓<br><br>I love crafting clean, functional, and user-friendly apps using **Swift**, **UIKit**, and modern architecture patterns like **MVVM**.  <br>My CS degree gave me a strong foundation in algorithms, data structures and software architecture. 🧠💻<br><br>🔧 <br>Tools & Concepts I use:  <br>- 🛠️ Swift, UIKit, SwiftUI<br>- 🧱 Clean Architecture, MVVM + MVC  <br>- 🧩 Git, Xcode, Firebase, UserDefaults, Core Data  <br><br>🚀 I'm passionate about learning, problem-solving, and turning ideas into smooth mobile experiences.  
 
 
 ## 🌐 Socials:
