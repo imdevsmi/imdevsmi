@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=imdevsmi&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imdevsmi&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=imdevsmi&style=flat-square)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
