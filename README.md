@@ -57,8 +57,6 @@ I'm a **Computer Science graduate** and a passionate **iOS Developer**. I specia
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdevsmi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevsmi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
