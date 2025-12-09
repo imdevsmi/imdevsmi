@@ -1,40 +1,78 @@
-# Hi there, I'm Sami! 👋
-### 🍎 iOS Developer | Computer Science Graduate
+<div align="center">
 
-I craft clean, functional, and user-friendly mobile experiences. My background in CS gives me a strong foundation in algorithms and software architecture.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F54A2A&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sami+👋;iOS+Developer+;Computer+Science+Grad+🎓;Swift+%26+UIKit+Master+🚀" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Native iOS Apps**
-- 🌱 I’m currently learning **Advanced SwiftUI & Combine**
-- 💬 Ask me about **UIKit, MVVM, Clean Architecture**
-- 📫 How to reach me: [gundogannsami@gmail.com](mailto:gundogannsami@gmail.com)
+  <p align="center">
+    <strong>Turning ideas into smooth mobile experiences.</strong>
+  </p>
 
----
+  <a href="https://www.linkedin.com/in/samigundogan/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@devsmi.me">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:gundogannsami@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-### 💻 Technology Stack
+</div>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile** | Swift, UIKit, SwiftUI, Core Data, UserDefaults |
-| **Architecture** | MVVM, MVC, Clean Architecture, Coordinator Pattern |
-| **Backend/Cloud** | Firebase, AWS, Microsoft SQL Server |
-| **Tools** | Git, GitHub, Xcode, Jira, Postman |
+<br/>
 
----
+### 👨‍💻 About Me
 
-### 📈 GitHub Analytics
+I'm a **Computer Science graduate** and a passionate **iOS Developer**. I specialize in building clean, user-friendly apps using modern architecture patterns.
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=imdevsmi&theme=calm&show_icons=true&hide_border=true&count_private=true" alt="imdevsmi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevsmi&layout=compact&theme=calm&hide_border=true" alt="imdevsmi" />
-</p>
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=calm&hide_border=true)
+- 🧠 **Focus:** Swift, UIKit, SwiftUI, MVVM, Clean Architecture.
+- 🔧 **Core:** Data Structures & Algorithms expertise.
+- 🚀 **Goal:** Crafting high-performance mobile applications.
 
 ---
 
-### 🏆 Top Contribution
-![](https://github-contributor-stats.vercel.app/api?username=imdevsmi&limit=3&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=imdevsmi&icon=0&color=3" />
-</p>
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imdevsmi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdevsmi&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
+
+<br/>
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=imdevsmi&icon=5&color=3" />
+  </a>
+</div>
