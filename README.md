@@ -35,9 +35,9 @@ I'm a **Computer Science graduate** and a passionate **iOS Developer**. I specia
 ### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=CocoaPods&logoColor=white" />
+<img src="https://img.shields.io/badge/UIKit-007ACC?style=flat&logo=UIKit&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-000000?style=flat&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/SPM-EE3322?style=flat&logo=SPM&logoColor=white" />
 
 <br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
