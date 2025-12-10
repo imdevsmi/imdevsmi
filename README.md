@@ -67,10 +67,3 @@ I'm a **Computer Science graduate** and a passionate **iOS Developer**. I specia
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
-<div align="center">
-  <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=imdevsmi&icon=5&color=3" />
-  </a>
-</div>
