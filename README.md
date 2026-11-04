@@ -121,15 +121,17 @@ struct Sami: Developer {
 <tr>
 <td width="50%" align="center" valign="top">
 <h3>🔍 Scope: AI Analyst</h3>
-<p>AI-powered iOS app built with Swift and LLM APIs.</p>
-<!-- TODO: href'e App Store linkini yapıştır -->
-<a href="APP_STORE_LINK_SCOPE"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+<p><em>Smart Brief, Radar &amp; Finance</em></p>
+<p align="left">AI-generated daily briefs across nine news categories, combined with live currency and gold rates, interactive finance charts, detailed weather and a Home Screen widget. No account required; personal data stays on the device.</p>
+<p><img src="https://img.shields.io/badge/News%20%26%20Finance-F54A2A?style=flat-square" alt="News & Finance" /> <img src="https://img.shields.io/badge/Widget-2396F3?style=flat-square" alt="Widget" /> <img src="https://img.shields.io/badge/EN%20%C2%B7%20TR-30363D?style=flat-square" alt="EN · TR" /></p>
+<a href="https://apps.apple.com/tr/app/scope-ai-analyst/id6754694355"><img src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
 </td>
 <td width="50%" align="center" valign="top">
 <h3>🔥 BrainFire AI</h3>
-<p>AI-powered iOS app built with Swift and LLM APIs.</p>
-<!-- TODO: href'e App Store linkini yapıştır -->
-<a href="APP_STORE_LINK_BRAINFIRE"><img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" /></a>
+<p><em>AI Coach for Goals &amp; Focus</em></p>
+<p align="left">A personal AI coach that turns big goals into daily progress, with focus sessions, a weekly planner with conflict checks and smart to-do reminders. Its social Crew feature lets friends focus together, and Premium is offered through in-app subscriptions.</p>
+<p><img src="https://img.shields.io/badge/Productivity-F54A2A?style=flat-square" alt="Productivity" /> <img src="https://img.shields.io/badge/Social-5E5CE6?style=flat-square" alt="Social" /> <img src="https://img.shields.io/badge/EN%20%C2%B7%20TR%20%C2%B7%20ES-30363D?style=flat-square" alt="EN · TR · ES" /></p>
+<a href="https://apps.apple.com/tr/app/brainfire-ai/id6757637163"><img src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" /></a>
 </td>
 </tr>
 </table>
@@ -171,15 +173,6 @@ struct Sami: Developer {
 </td>
 </tr>
 </table>
-
-<!-- ===================== MORE ===================== -->
-## 📂 More Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**KPSS Puanmatik**](https://github.com/imdevsmi/KPSS-Puanmatik) | Exam score calculator with onboarding UX | SwiftUI · SwiftData · Firebase · MVVM |
-| [**MLImageRecognition**](https://github.com/imdevsmi/MLImageRecognition) | On-device object recognition from photos with confidence scores | CoreML · Vision · UIKit |
-| [**Momentum**](https://github.com/imdevsmi/Momentum) | Minimal task manager with priorities | Swift · UIKit |
 
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
