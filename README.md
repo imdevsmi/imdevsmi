@@ -1,69 +1,121 @@
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F54A2A,100:FA7343&height=200&section=header&text=Sami%20G%C3%BCndo%C4%9Fan&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=iOS%20Developer%20%E2%80%A2%20Swift%20Enthusiast&descSize=18&descAlignY=56" alt="header" width="100%" />
+</p>
+
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F54A2A&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Sami+👋;iOS+Developer+;Computer+Science+Grad+🎓;Swift+%26+UIKit+Master+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F54A2A&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Sami+%F0%9F%91%8B;iOS+Developer+%EF%A3%BF;Computer+Science+Grad+%F0%9F%8E%93;Swift+%26+UIKit+Lover+%F0%9F%9A%80;Clean+code%2C+smooth+UX+%E2%9C%A8" alt="Typing SVG" />
 
-  <p align="center">
-    <strong>Turning ideas into smooth mobile experiences.</strong>
-  </p>
+  <p><em>Turning ideas into smooth mobile experiences.</em></p>
 
   <a href="https://www.linkedin.com/in/samigundogan/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@devsmi.me">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="mailto:gundogannsami@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=imdevsmi&label=Profile%20views&color=F54A2A&style=flat-square" alt="Profile views" />
+
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
 
-I'm a **Computer Science graduate** and a passionate **iOS Developer**. I specialize in building clean, user-friendly apps using modern architecture patterns.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-- 🧠 **Focus:** Swift, UIKit, SwiftUI, MVVM, Clean Architecture.
-- 🔧 **Core:** Data Structures & Algorithms expertise.
-- 🚀 **Goal:** Crafting high-performance mobile applications.
+I'm a **Computer Science graduate** and a passionate **iOS Developer**. I love building clean, user‑friendly apps on top of solid, modern architecture.
 
----
+- 🧠 &nbsp;**Focus:** Swift, UIKit, SwiftUI
+- 🏛️ &nbsp;**Architecture:** MVVM, Clean Architecture
+- 🔧 &nbsp;**Core:** Data Structures & Algorithms
+- 🚀 &nbsp;**Goal:** Crafting high‑performance mobile apps
+- ✍️ &nbsp;**Writing:** Sharing what I learn on [Medium](https://medium.com/@devsmi.me)
+- 💬 &nbsp;**Ask me about:** iOS, Swift, app architecture
+
+</td>
+<td width="45%" valign="top">
+
+```swift
+struct Sami: Developer {
+    let role       = "iOS Developer"
+    let education  = "Computer Science"
+    let language   = "Swift"
+    let ui         = ["UIKit", "SwiftUI"]
+    let patterns   = ["MVVM", "Clean Arch"]
+    let loves      = "Smooth UX ✨"
+
+    func build(_ idea: Idea) -> App {
+        idea.polished().shipped()
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🛠️ Tech Stack
+**📱 iOS**
 
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/UIKit-007ACC?style=flat&logo=UIKit&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-000000?style=flat&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/SPM-EE3322?style=flat&logo=SPM&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+<img src="https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Package Manager" />
 
-<br/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+**☁️ Backend & Data**
 
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server" />
+
+**🧰 Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
 
----
-
-### 📊 GitHub Stats
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=tokyonight&hide_border=true&ring=F54A2A&fire=F54A2A&currStreakLabel=F54A2A" alt="GitHub streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imdevsmi&theme=tokyo-night&hide_border=true&area=true&color=F54A2A&line=F54A2A&point=FFFFFF" alt="Contribution graph" width="100%" />
+</div>
+
+<!-- ===================== QUOTE ===================== -->
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </div>
 
 <br/>
 
-### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <sub>⭐ Thanks for stopping by! Let's build something great together. ⭐</sub>
 </div>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA7343,100:F54A2A&height=120&section=footer" alt="footer" width="100%" />
+</p>
