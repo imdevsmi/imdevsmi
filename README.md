@@ -99,7 +99,11 @@ struct Sami: Developer {
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=tokyonight&hide_border=true&ring=F54A2A&fire=F54A2A&currStreakLabel=F54A2A" alt="GitHub streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imdevsmi&theme=tokyo-night&hide_border=true&area=true&color=F54A2A&line=F54A2A&point=FFFFFF" alt="Contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imdevsmi/imdevsmi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imdevsmi/imdevsmi/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/imdevsmi/imdevsmi/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <!-- ===================== QUOTE ===================== -->
