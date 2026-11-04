@@ -97,7 +97,10 @@ struct Sami: Developer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imdevsmi&theme=tokyonight&hide_border=true&ring=F54A2A&fire=F54A2A&currStreakLabel=F54A2A" alt="GitHub streak" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
+  <br/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%" />
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imdevsmi/imdevsmi/output/github-snake-dark.svg" />
